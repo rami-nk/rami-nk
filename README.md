@@ -3,7 +3,7 @@
 <p><em>Software Developer at <a href="http://miragon.io">Miragon GmbH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Computer Science Graduate<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: raminakkar](https://img.shields.io/badge/-raminakkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raminakkar/)]([[https://www.linkedin.com/in/raminakkar/](https://www.linkedin.com/in/rami-nakkar-ab521a209/)](https://www.linkedin.com/in/rami-nakkar-ab521a209/))
+[![Linkedin: raminakkar](https://img.shields.io/badge/-raminakkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raminakkar/)](https://www.linkedin.com/in/rami-nakkar-ab521a209/)
 [![GitHub Rami-NK](https://img.shields.io/github/followers/rami-nk?label=follow&style=social)](https://github.com/rami-nk)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
