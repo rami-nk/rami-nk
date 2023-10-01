@@ -24,8 +24,7 @@
 const rami = {
   code: [Java, Typescript, C#, HTML, CSS],
   tools: [Spring, React, Angular, Node, Docker, Azure],
-  architecture: ["hexagonal architecture", "microservices", "Agile methodologies"],
-  currentFocus: "Working on process automation and software engineering at Miragon GmbH",
+  architecture: ["hexagonal architecture", "microservices", "Agile methodologies"]
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love problem solving and always eager to learn new things</b></b> :)</em>
