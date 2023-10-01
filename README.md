@@ -2,14 +2,12 @@
 <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/200w.webp?cid=ecf05e47u7tq1f1ql2592jxuwi6ofql5txrhvpcjhn3dimzw&ep=v1_stickers_search&rid=200w.webp&ct=s" width="230">
 
 <p>
-  <em>Software Developer at <a href="http://miragon.io">Miragon GmbH</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
       Computer Science Graduate
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
   </em>
 </p>
 
-- 🔭 I’m currently working on the [Miranum documentation](https://miranum.com/)
 - 🌱 I’m currently learning IT consulting and Spanish 
 - 💬 Ask me about anything; I'm happy to connect :) 
 - 📫 How to reach me: 
