@@ -3,12 +3,12 @@
 
 <p>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
-      Computer Science Graduate
+      Computer Science Grad Student at LMU
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
   </em>
 </p>
 
-- 🌱 I’m currently learning IT consulting and Spanish 
+- 🌱 I’m currently learning Symfony and still Spanish 
 - 💬 Ask me about anything; I'm happy to connect :) 
 - 📫 How to reach me: 
 
@@ -22,9 +22,9 @@
 
 ```javascript
 const rami = {
-  code: [Java, Typescript, C#, HTML, CSS],
-  tools: [Spring, React, Angular, Node, Docker, Azure],
-  architecture: ["hexagonal architecture", "microservices", "Agile methodologies"]
+  code: [PHP, Java, Typescript, C#, HTML, CSS],
+  tools: [Symfony, React, Angular, Node, Docker, Azure, Expo, Cypress],
+  interests: ["Software Architecture", "Software Engineering", "Testing", "Agile methodologies"]
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love problem solving and always eager to learn new things</b></b> :)</em>
