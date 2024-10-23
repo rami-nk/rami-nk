@@ -3,7 +3,7 @@
 
 <p>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
-      Computer Science Grad Student at LMU
+      Computer Science Grad Student at Ludwig-Maximilians-Universität München (LMU)
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
   </em>
 </p>
@@ -23,8 +23,8 @@
 ```javascript
 const rami = {
   code: [PHP, Java, Typescript, C#, HTML, CSS],
-  tools: [Symfony, React, Angular, Node, Docker, Azure, Expo, Cypress],
-  interests: ["Software Architecture", "Software Engineering", "Testing", "Agile methodologies"]
+  tools: [Symfony, React, Angular, Node, Docker, Azure, Expo, Cypress, React Native],
+  interests: ["Software Architecture", "Software Engineering", "Testing", "Agile methodologies", "Cloud"]
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love problem solving and always eager to learn new things</b></b> :)</em>
