@@ -8,7 +8,7 @@
   </em>
 </p>
 
-- 🌱 I’m currently learning Symfony and still Spanish 
+- 🌱 I’m currently about projectmanagement
 - 💬 Ask me about anything; I'm happy to connect :) 
 - 📫 How to reach me: 
 
