@@ -8,7 +8,7 @@
   </em>
 </p>
 
-- 🌱 I’m currently about projectmanagement
+- 🌱 I’m currently learning about server components
 - 💬 Ask me about anything; I'm happy to connect :) 
 - 📫 How to reach me: 
 
